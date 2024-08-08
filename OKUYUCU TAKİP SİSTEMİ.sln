@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKUYUCU TAKİP SİSTEMİ", "OKUYUCU TAKİP SİSTEMİ\OKUYUCU TAKİP SİSTEMİ.csproj", "{6352B248-F74C-4F88-81DD-0A2FD18EAA89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6352B248-F74C-4F88-81DD-0A2FD18EAA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6352B248-F74C-4F88-81DD-0A2FD18EAA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6352B248-F74C-4F88-81DD-0A2FD18EAA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6352B248-F74C-4F88-81DD-0A2FD18EAA89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D511046-11C0-48A3-8E65-3DAB03AADC8E}
+	EndGlobalSection
+EndGlobal
